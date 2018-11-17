@@ -3,6 +3,9 @@ class Anagram
   
   attr_accessor :anagram
   
+  @@anagram = []
+  
   def initialize()
+    
   end
 end
